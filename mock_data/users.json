@@ -1,0 +1,14 @@
+{
+  "admin": {
+    "password": "secret",
+    "id": "user-1",
+    "role": "admin",
+    "domain": "default"
+  },
+  "demo": {
+    "password": "test",
+    "id": "user-2",
+    "role": "user",
+    "domain": "default"
+  }
+}

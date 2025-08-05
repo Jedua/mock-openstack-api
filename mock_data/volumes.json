@@ -1,0 +1,20 @@
+[
+  {
+    "id": "88cf7ed9-67e3-4d6e-a6bb-152917424140",
+    "name": "vol-1",
+    "size": 1,
+    "status": "available"
+  },
+  {
+    "id": "48ebd901-e9f8-4742-afc9-d0c365028a2f",
+    "name": "Vol-simple2",
+    "size": 128125000,
+    "status": "available"
+  },
+  {
+    "id": "f64e769c-fa5b-4c07-9529-06a954d0e86e",
+    "name": "Vol-simple2",
+    "size": 128125000,
+    "status": "available"
+  }
+]

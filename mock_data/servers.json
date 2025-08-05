@@ -1,0 +1,14 @@
+[
+  {
+    "id": "c4fd354b-17cf-4a78-8e60-5dc4f0f98553",
+    "name": "server-1",
+    "status": "ACTIVE"
+  },
+  {
+    "id": "ed5a7be2-5f91-4a17-8dc2-91826f349333",
+    "name": "Instancia-prueba",
+    "status": "BUILD",
+    "image_id": "2438bf54-7f34-450c-9bc0-bf268920a358",
+    "flavor_id": "Flavor-1"
+  }
+]
