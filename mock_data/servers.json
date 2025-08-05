@@ -5,8 +5,36 @@
     "status": "ACTIVE"
   },
   {
-    "id": "ed5a7be2-5f91-4a17-8dc2-91826f349333",
-    "name": "Instancia-prueba",
+    "id": "dc9d3e76-00d8-4526-97f2-49e62f80aca1",
+    "name": "Instancia-prueba-fedora",
+    "status": "BUILD",
+    "image_id": "2438bf54-7f34-450c-9bc0-bf268920a358",
+    "flavor_id": "Flavor-1"
+  },
+  {
+    "id": "d01e793e-188e-481c-90c1-f4de3c871843",
+    "name": "Instancia-prueba-fedora",
+    "status": "BUILD",
+    "image_id": "2438bf54-7f34-450c-9bc0-bf268920a358",
+    "flavor_id": "Flavor-1"
+  },
+  {
+    "id": "c21541c3-0eb1-446c-b0e9-1f578143a69e",
+    "name": "Instancia-prueba-fedora",
+    "status": "BUILD",
+    "image_id": "2438bf54-7f34-450c-9bc0-bf268920a358",
+    "flavor_id": "Flavor-1"
+  },
+  {
+    "id": "63c22358-7685-403d-9272-551b37f8f139",
+    "name": "Instancia-prueba-fedora",
+    "status": "BUILD",
+    "image_id": "2438bf54-7f34-450c-9bc0-bf268920a358",
+    "flavor_id": "Flavor-1"
+  },
+  {
+    "id": "611b49ae-83d6-4ea2-94fc-162857cc4247",
+    "name": "Instancia-prueba-fedora",
     "status": "BUILD",
     "image_id": "2438bf54-7f34-450c-9bc0-bf268920a358",
     "flavor_id": "Flavor-1"
